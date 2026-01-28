@@ -1,9 +1,9 @@
 {
 	"name": "spotifyadfuday",
-	"location": "eastus",
+	"location": "westus2",
 	"identity": {
 		"type": "SystemAssigned",
-		"principalId": "167e4886-1e4c-4d42-aa26-88b8d145ed5f",
+		"principalId": "ec0f7e91-9577-4596-abd4-8e7cf64c946d",
 		"tenantId": "650facc5-3083-4c64-855c-52274c4fa9c6"
 	}
 }
